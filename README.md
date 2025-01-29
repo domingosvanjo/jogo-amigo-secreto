@@ -1,11 +1,12 @@
 ## Jogo do amigo secreto
 
-<a href="https://github.com/domingosvanjo/jogo-amigo-secreto"> <img src="assets/tela.png" width="60%" hight="20%" title="Jogo do amigo secreto" alt="figura mostrando como é a tela do jogo do amigo secreto"/></a> <br>
+<a href="https://domingosvanjo.github.io/jogo-amigo-secreto/"> <img src="assets/tela.png" width="60%" hight="20%" title="Jogo do amigo secreto" alt="figura mostrando como é a tela do jogo do amigo secreto"/></a> <br>
 Esta é uma aplicação onde você pode adicionar o nome de seus amigos numa lista e, depois, sortear seu amigo secreto. Ideal para brincadeiras de fim de ano.
 
-Regra:  
+Regra:
+- Você não pode inserir um nome menor que dois caracteres.
 - O nome deve ser único na lista.
-- Um nome por vez.
+- Insira um nome por vez.
 
 Após digitar o nome do amigo ou amiga clique em "Adicionar" ou presione no teclado Alt+A para inseir o nome na lista.
 
